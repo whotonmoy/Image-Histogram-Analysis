@@ -11,7 +11,7 @@ void saveHistogramImage(const vector<int>& histogram, const string& outputFileNa
 
 // Define image parameters
 // Change these parameters according to the image being tested
-const int IMAGE_SIZE = 452 * 307;
+const int IMAGE_SIZE = 256 * 256;
 
 // Define histogram parameters
 const int HISTOGRAM_SIZE = 256;
